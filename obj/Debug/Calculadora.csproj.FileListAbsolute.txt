@@ -1,0 +1,40 @@
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\bin\Debug\Calculadora.exe.config
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\bin\Debug\Calculadora.exe
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\bin\Debug\Calculadora.pdb
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\obj\Debug\Calculadora.exe
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\obj\Debug\Calculadora.pdb
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.3\bin\Debug\Calculadora.exe.config
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.3\bin\Debug\Calculadora.exe
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.3\bin\Debug\Calculadora.pdb
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.3\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.3\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.3\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.3\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.3\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.3\obj\Debug\Calculadora.exe
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.3\obj\Debug\Calculadora.pdb
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculator C#\bin\Debug\Calculadora.exe.config
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculator C#\bin\Debug\Calculadora.exe
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculator C#\bin\Debug\Calculadora.pdb
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculator C#\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculator C#\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculator C#\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculator C#\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculator C#\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculator C#\obj\Debug\Calculadora.exe
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculator C#\obj\Debug\Calculadora.pdb

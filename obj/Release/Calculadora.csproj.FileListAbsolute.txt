@@ -1,0 +1,10 @@
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\bin\Release\Calculadora.exe.config
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\bin\Release\Calculadora.exe
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\bin\Release\Calculadora.pdb
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\obj\Release\Calculadora.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\obj\Release\Calculadora.Calculadora.resources
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\obj\Release\Calculadora.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\obj\Release\Calculadora.csproj.GenerateResource.cache
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\obj\Release\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\obj\Release\Calculadora.exe
+C:\Users\Leonardo\Desktop\Udemy\C#\Calculadora 1.2\obj\Release\Calculadora.pdb
